@@ -46,6 +46,7 @@ body {
   background-color: transparent;
   color: #6759ff;
   cursor: pointer;
+    margin-bottom: 5px;
 }
 .active {
   background-color: #6759ff;
@@ -72,6 +73,7 @@ body {
 
 
 }
+
 .image-container {
   text-align: center;
 }
@@ -104,4 +106,5 @@ img {
     grid-template-columns: auto auto;
     grid-column-gap: 1em;
   }
+
 }
