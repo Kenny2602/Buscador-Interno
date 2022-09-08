@@ -1,8 +1,8 @@
 let products = {
   data: [
     {
-      productName: "Regular White T-Shirt",
-      category: "Topwear",
+      productName: "pie",
+      category: "Joyeria",
       price: "30",
       image: "dijebebeplata.jpg",
     },
